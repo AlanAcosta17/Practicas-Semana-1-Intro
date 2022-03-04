@@ -5,4 +5,4 @@ En este repositorio se muestran las prácticas desarrolladas para la semana uno 
 -[Buyer persona](https://github.com/AlanAcosta17/Practicas-Semana-1-Intro/blob/main/Buyer%20persona.pdf)
 -[Público objetivo](https://github.com/AlanAcosta17/Practicas-Semana-1-Intro/blob/main/Publico%20objetivo.pdf)
 -[Wireframe](https://github.com/AlanAcosta17/Practicas-Semana-1-Intro/blob/main/Wireframe%20Abogabot.pdf)
--[Diseño UI]
+-[Diseño UI](https://github.com/AlanAcosta17/Practicas-Semana-1-Intro/blob/main/Dise%C3%B1o%20UI)
